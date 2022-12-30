@@ -6,6 +6,7 @@ import sys
 sys.path.insert(1, '/ms5837-python')
 
 # TESTE 01
+# Teste 02
 
 import ms5837
 import time
