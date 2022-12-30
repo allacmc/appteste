@@ -5,8 +5,6 @@ import sys
 # position 1 in sys.path
 sys.path.insert(1, '/ms5837-python')
 
-
-
 import ms5837
 import time
 
