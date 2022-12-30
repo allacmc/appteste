@@ -9,6 +9,7 @@ sys.path.insert(1, '/ms5837-python')
 # Teste 02
 # Teste 03
 # Teste 04
+# Teste 05
 
 import ms5837
 import time
